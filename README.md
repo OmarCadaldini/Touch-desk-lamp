@@ -13,9 +13,9 @@ Each pin of the atmega controls a single led, so you can adjust the brightness o
 - a 3D printer.
 
 ## 1: Printing
-In the _stl_ folder you will find tree files. You have to print each file once.
+In the _Stl_ folder you will find tree files. You have to print each file once.
 
-## 2:Touche sensor
+## 2:Touch sensor
 sdjhfbvdf
 
 
