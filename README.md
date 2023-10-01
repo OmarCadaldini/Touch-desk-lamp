@@ -12,6 +12,7 @@ Each pin of the atmega controls a single LED, so you can adjust the brightness o
 - strip connectors;
 - a 3D printer.
 
+# Realisation
 ## 1: Printing
 In the _Stl_ folder you will find tree files. You have to print each file once.
 
