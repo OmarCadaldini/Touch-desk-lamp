@@ -34,5 +34,8 @@ Once you've glued all the led to the stand, make sure the wires are the right le
 - Glue the stand to the basement using the guide holes. 
 - Glue the coin to the top of the shell and that's all!
 
+## 5: Programming
+You can find a working program in the _Touck_desk_lamp_ folder. Here you can also find a FSM state diagram that describes its behaviour. The lamp can be turned on, off, in dimming mode, or in continuous fading, or anything else you want to create.
+
 
 
